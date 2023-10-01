@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #11212d;
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img {
+    max-width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+header a {
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ccd0cf;
+}
+section {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+section input {
+    width: 700px;
+    font-size: 20px;
+    border-radius: 100px;
+    padding-right: 15px;
+    padding-left: 20px; 
+}
+section button{
+    font-size: 15px;
+    border-radius: 10px;
+    background: black;
+    color: #FFF;
+    font-family: sans-serif;
+    padding: 10px;
+    cursor: pointer;
+}
+section h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #ccd0cf;
+}
+span {
+    color: aqua;
+    font-size: 80px;
+}
+section p {
+    color: #ccd0cf;
+    font-family: sans-serif;
+    padding: 50px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 80px;
+    padding: 0;
+}
+footer i {
+    font-size: 40px;
+    color: #ccd0cf;
+}
+footer i:hover {
+    color: black;
+    background-color: #FFF;
+    border-radius: 50%;
+}
+footer p{
+    color: aliceblue;
+}
