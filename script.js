@@ -4,7 +4,7 @@ const downloaderBtn = document.querySelector("button");
 
 downloaderBtn.addEventListener("click", async () => {
     try {
-        const response = await response fetch(urlInput.value);
+        const response = await fetch(urlInput.value);
         const file = await response.blob();
         const link = document.createElement("a");
         link.href = URL.createObjectURL(file);
