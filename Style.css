@@ -43,11 +43,15 @@ section input {
 section button{
     font-size: 15px;
     border-radius: 10px;
-    background: black;
+    background: rgb(201, 45, 45);
     color: #FFF;
     font-family: sans-serif;
     padding: 10px;
     cursor: pointer;
+}
+section button:hover {
+    background: black;
+    color: #ccd0cf;
 }
 section h1 {
     font-size: 30px;
