@@ -83,3 +83,114 @@ footer i:hover {
 footer p{
     color: aliceblue;
 }
+@media screen and (max-width : 1024px) {
+    body {
+        width: 100%;
+    }
+}
+@media screen and (max-width : 768px) {
+    * {
+        padding: 0;
+    }
+    header img {
+        max-width: 200px;
+        margin: 20px;
+    }
+    header a {
+        font-size: 15px;
+    }
+    section {
+        height: 400px;
+        box-sizing: 0;
+    }
+    section input {
+        width: 500px;
+    }
+    section h1 {
+        font-size: 20px;
+    }
+    section p {
+        justify-content: center;
+        align-items: center;
+        padding: 40px 0 40px 10px;
+    }
+    span {
+        font-size: 60px;
+    }
+    footer i {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width : 425px) {
+    * {
+        padding: 0;
+    }
+    header img {
+        max-width: 150px;
+    }
+    header a{
+        font-size: 10px;
+        margin-right: 10px;
+    }
+    section {
+        height: 420px;
+    }
+    section h1 {
+        font-size: 15px;
+    }
+    section input {
+        width: 350px;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+    section p {
+        padding: 20px 0 20px 15px;
+    }
+    footer i {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
+@media screen and (max-width : 375px) {
+    * {
+        padding: auto;
+    }
+    section input {
+        width: 300px;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+    footer p {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width : 375px) {
+    * {
+        padding: auto;
+    }
+    header a {
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    header img {
+        max-width: 100px;
+    }
+    section input {
+        width: 250px;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+    section p {
+        font-size: 10px;
+    }
+    section button {
+        font-size: 10px;
+    }
+    span {
+        font-size: 60px;
+    }
+}
