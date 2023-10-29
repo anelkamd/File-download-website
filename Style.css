@@ -3,6 +3,9 @@
     padding: 10px;
     box-sizing: border-box;
 }
+html {
+    overflow-y: hidden;
+}
 body {
     background-color: #11212d;
     font-family: sans-serif;
