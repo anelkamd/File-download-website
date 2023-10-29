@@ -9,6 +9,7 @@ html {
 body {
     background-color: #11212d;
     font-family: sans-serif;
+    overflow: hidden;
 }
 header {
     display: flex;
