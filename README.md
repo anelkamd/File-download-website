@@ -4,6 +4,7 @@ Bienvenue sur notre site web de téléchargement de fichiers légal et sécuris�
 
 Notre site offre une expérience conviviale et intuitive. Vous pouvez parcourir différentes catégories de fichiers, notamment des documents, des images, des vidéos, des musiques, et bien plus encore. Notre objectif est de rendre les fichiers légitimes et intéressants facilement accessibles à tous.
 
+
 Nous veillons à ce que tous les fichiers proposés sur notre site soient conformes aux lois en vigueur. Nous avons établi des partenariats légaux avec les détenteurs de droits d'auteur pour garantir la légalité des fichiers mis à disposition. Ainsi, vous pouvez télécharger en toute tranquillité, sans vous soucier des implications juridiques.
 
 La sécurité de nos utilisateurs est notre priorité. Nous mettons en place des mesures pour vérifier et examiner tous les fichiers avant leur publication, afin de prévenir les risques de virus, de logiciels malveillants ou de tout autre contenu potentiellement dangereux. Votre expérience de téléchargement est ainsi sécurisée et fiable.
