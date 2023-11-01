@@ -10,6 +10,7 @@ Nous veillons à ce que tous les fichiers proposés sur notre site soient confor
 
 La sécurité de nos utilisateurs est notre priorité. Nous mettons en place des mesures pour vérifier et examiner tous les fichiers avant leur publication, afin de prévenir les risques de virus, de logiciels malveillants ou de tout autre contenu potentiellement dangereux. Votre expérience de téléchargement est ainsi sécurisée et fiable.
 
+
 Rejoignez-nous dès maintenant et profitez d'une plateforme légale de téléchargement de fichiers, où la qualité et l'intégrité sont au cœur de nos préoccupations. Explorez notre bibliothèque diversifiée et découvrez un monde de contenu légal et passionnant !
 
 Veuillez noter que les lois sur le droit d'auteur peuvent varier selon les pays. Assurez-vous de respecter les législations en vigueur dans votre région lors de l'utilisation de notre site web de téléchargement de fichiers
